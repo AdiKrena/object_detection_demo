@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'cokelat'
+}
+
+item {
+    id: 2
+    name: 'mangga'
+}
+
+item {
+    id: 3
+    name: 'vanilla'
+}
